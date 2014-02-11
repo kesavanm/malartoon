@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Malar Toon</string>
+    <string name="label_heading">Malar Toon - Daily Toons</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_toon">Show Cartoon!</string>
+    <string name="button_rand">Show Random!</string>
+    <string name="button_exit">GoodBye!</string>
+    <string name="button_thanks">Say thanks to kesavan.info</string>
+</resources>
